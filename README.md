@@ -11,7 +11,7 @@ type: lab
 
 You and your co-pilot are on a cross-country flight from LA to New York. You decide to write a method that will announce each state that you fly over. You know, something like this: "We are now flying over wonderful Wyoming!" (You might need to look at a map of the US to plan out your route.)
 
-Discuss your approach to the problem before you start coding then write out your code in the fly_over.rb file. Make sure to call or puts your method(s) at the bottom of the file when you are done and run your program to see your trip.
+Discuss your approach to the problem before you start coding then write out your code in the flyover.rb file. Make sure to call or puts your method(s) at the bottom of the file when you are done and run your program to see your trip.
 
 
 ### Bonus Items
