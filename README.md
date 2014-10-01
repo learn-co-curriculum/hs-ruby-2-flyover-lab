@@ -15,7 +15,7 @@ You and your co-pilot are on a cross-country flight from New York to LA. You don
 
 ```ruby
 def pennsylvania
-  "We're flying over pimptastic Pennsylvania!"
+  return "We're flying over pimptastic Pennsylvania!"
 end
 ``` 
 
@@ -24,6 +24,6 @@ Write your methods out in a new fly_over.rb file and puts each of your methods a
 ### Bonus Items
 * Get excited! Puts the messages about your favorite states in all caps.
 
-* Confuse the passengers! Puts your least favorite states backwards.
+* Confuse the passengers! Puts the announcement for your least favorite states backwards.
 
 * Safety first! As the pilot it's your job to keep everyone safe. Write two methods `fasten_seatbelts` and `free_to_move_about_the_cabin` that return the appropriate messages. 
