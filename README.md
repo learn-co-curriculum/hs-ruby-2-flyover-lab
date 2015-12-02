@@ -18,3 +18,5 @@ Write your methods in a new file called `fly_over.rb` and `puts` each of your me
 * Get excited! `puts` the messages about your favorite states in all caps.
 * Confuse the passengers! Return the announcement for your least favorite states backwards.
 * Safety first! As the pilot, it's your job to keep everyone safe. Write two methods `fasten_seatbelts` and `free_to_move_about_the_cabin` that return the appropriate safety messages.
+
+<a href='https://learn.co/lessons/hs-ruby-2-flyover-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
